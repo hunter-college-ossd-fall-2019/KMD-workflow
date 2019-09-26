@@ -9,3 +9,5 @@ We had problems choosing a name, and we accidentally created a repository under 
 I learned how to add an upstream remote using HTTPS.
 
 I learned how to properly add a remote.
+
+I learned how to to properly add an upstream remote.
