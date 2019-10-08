@@ -1,4 +1,0 @@
-C++
-Python
-JavaScript
-SQL
