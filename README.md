@@ -10,7 +10,7 @@ I learned how to add an upstream remote using HTTPS.
 
 I learned how to properly add a remote.
 
-I learned how to to properly add an upstream remote.
+I learned how to properly add an upstream remote.
 
 From the issue-creation step, we learned how to raise an issue, and that markdown is **not** supported on issue titles.
 
